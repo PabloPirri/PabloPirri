@@ -1,0 +1,156 @@
+[
+    {
+    "id":1,
+    "idCategoria": "Cocina",
+    "nombre":"Alacena chica",
+    "desc": "Realizada en melamina en medidas 140x60x60",
+    "precio":60000,
+    "stock": 7,
+    "img": "Alacena.jpg"
+  },
+  {
+    "id":2,
+    "idCategoria": "Cocina",
+    "nombre":"Bajo mesada chico",
+    "desc": "Realizada en melamina en medidas 140x60x60",
+    "precio":50000,
+    "stock": 7,
+    "img": "Bajo-mesada.jpg"
+  },
+  {
+    "id":3,
+    "idCategoria": "Baño",
+    "nombre":"Mesada para bacha de apoyo",
+    "cantidad": 1,
+    "desc": "Realizada en melamina en medidas 80x50x60",
+    "precio":65000,
+    "stock": 5,
+    "img": "Mueble-Bacha-Baño-chico.jpg"
+  },
+  {
+    "id":4,
+    "idCategoria": "Dormitorio",
+    "nombre":"Placard 1 modulo",
+    "desc": "Realizada en melamina en medidas 140x60x60",
+    "precio":33000,
+    "stock": 12,
+    "img": "Placard.jpg"
+  },
+  {
+    "id":5,
+    "idCategoria": "Dormitorio",
+    "nombre":"Cama 1 plaza",
+    "desc": "Realizada en melamina en medidas 90x190x80",
+    "precio":40000,
+    "stock": 6,
+    "img": "Cama-1-plaza.jpg"
+  },
+  {
+    "id":6,
+    "idCategoria": "Living",
+    "nombre":"Biblioteca 1 modulo",
+    "desc": "Realizada en melamina en medidas 80x200x80",
+    "precio":30000,
+    "stock": 12,
+    "img": "Bibliote-1-modulo.jpg"
+  },
+  {
+    "id":7,
+    "idCategoria": "Cocina",
+    "nombre":"Alacena mediana",
+    "desc": "Realizada en melamina en medidas 180x60x80",
+    "precio":65000,
+    "stock": 4,
+    "img": "Alacena.jpg"
+  },
+  {
+    "id":8,
+    "idCategoria": "Cocina",
+    "nombre":"Bajo mesada mediano",
+    "desc": "Realizada en melamina en medidas 180x60x80",
+    "precio":55000,
+    "stock": 4,
+    "img": "Bajo-mesada.jpg"
+  },
+  {
+    "id":9,
+    "idCategoria": "Baño",
+    "nombre":"Mesada para bacha de apoyo",
+    "desc": "Realizada en melamina en medidas 120x60x60",
+    "precio":85000,
+    "stock": 14,
+    "img": "Mueble-Bacha-Baño-grande.jpg"
+  },
+  {
+    "id":10,
+    "idCategoria": "Dormitorio",
+    "nombre":"Placard 2 modulos",
+    "desc": "Realizada en melamina en medidas 160x200x80",
+    "precio":60000,
+    "stock": 8,
+    "img": "placard-mediano.jpg"
+  },
+  {
+    "id":11,
+    "idCategoria": "Dormitorio",
+    "nombre":"Cama 2 plazas",
+    "desc": "Realizada en melamina en medidas 190x160x60",
+    "precio":50000,
+    "stock": 10,
+    "img": "Cama-2-plazas.jpg"
+  },
+  {
+    "id":12,
+    "idCategoria": "Living",
+    "nombre":"Biblioteca 2 modulos",
+    "desc": "Realizada en melamina en medidas 200x200x60",
+    "precio":60000,
+    "stock": 8,
+    "img": "Bibliote-2-modulos.jpg"
+  },
+  {
+    "id":13,
+    "idCategoria": "Cocina",
+    "nombre":"Alacena grande",
+    "desc": "Realizada en melamina en medidas 200x60x80",
+    "precio":80000,
+    "stock": 8,
+    "img": "Alacena.jpg"
+  },
+  {
+    "id":14,
+    "idCategoria": "Cocina",
+    "nombre":"Bajo mesada grande",
+    "desc": "Realizada en melamina en medidas 200x60x80",
+    "precio":75000,
+    "stock": 8,
+    "img": "Bajo-mesada.jpg"
+  },
+  {
+    "id":15,
+    "idCategoria": "Dormitorio",
+    "nombre":"Placard 3 modulos",
+    "desc": "Realizada en melamina en medidas 240x200x80",
+    "precio":99000,
+    "stock": 6,
+    "img": "Placard-grande.jpg"
+  },
+  {
+    "id":16,
+    "idCategoria": "Dormitorio",
+    "nombre":"Cama 2 1/2 plazas",
+    "desc": "Realizada en melamina en medidas 180x190x60",
+    "precio":60000,
+    "stock": 3,
+    "img": "Cama-212-plazas.jpg"
+  },
+  {
+    "id":17,
+    "idCategoria": "Living",
+    "nombre":"Biblioteca 3 modulos",
+    "desc": "Realizada en melamina en medidas 240x200x60",
+    "precio":90000,
+    "stock": 20,
+    "img": "Bibliote-3-modulos.jpg"
+  }
+]
